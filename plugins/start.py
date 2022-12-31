@@ -80,7 +80,7 @@ async def cb_handler(client, query: CallbackQuery):
             text=script.ABOUT_TXT.format(client.mention),
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[    
-               InlineKeyboardButton("〄 sᴏᴜʀᴄᴇ 〄", url="https://github.com/Devil-Botz/RenameBot") ],[      
+               InlineKeyboardButton("⚡️ ᴀᴅᴍɪɴ ⚡️", url="https://t.me/Owner_PM_Bot") ],[      
                InlineKeyboardButton("🗑️𝙲𝙻𝙾𝚂𝙴🗑️", callback_data = "close"),
                InlineKeyboardButton("««𝙱𝙰𝙲𝙺", callback_data = "start")
                ]]
