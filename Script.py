@@ -4,7 +4,7 @@ class script(object):
  I'ᴍ A Sɪᴍᴘʟᴇ Tᴇʟᴇɢʀᴀᴍ Fɪʟᴇ & Vɪᴅᴇᴏ Rᴇɴᴀᴍᴇ Bᴏᴛ Wɪᴛʜ ᴄᴜꜱᴛᴏᴍ ᴄᴀᴘᴛɪᴏɴ ᴀɴᴅ Pᴇʀᴍᴀɴᴇɴᴛ Tʜᴜᴍʙɴᴀɪʟ Sᴜᴘᴘᴏʀᴛ.</b>"""
 
 
-    DEV_TXT = """<b>☬ ᴛʜᴀɴᴋs ᴛᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀs ☬
+    DEV_TXT = """<b>⭕️ ᴛʜᴀɴᴋs ᴛᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀs ⭕️
 
 ➥ <a href='https://t.me/Owner_PM_Bot'>『𝙰𝙳𝙼𝙸𝙽࿐Tɢ』</a>
 ➥ <a href='https://t.me/Prv_35'>  ꜱᴜᴘᴘᴏʀᴛ</a>
