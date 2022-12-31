@@ -78,4 +78,4 @@ Example:- /set_caption 📝 File Name: {filename}
     SAV_CAP = """𝗬𝗼𝘂𝗿 𝗰𝗮𝗽𝘁𝗶𝗼𝗻 𝘀𝘂𝗰𝗰𝗲𝘀𝘀𝗳𝘂𝗹𝗹𝘆 𝘀𝗮𝘃𝗲𝗱"""
 
     GIV_CAP = """𝙂𝙞𝙫𝙚 𝙢𝙚 𝙖 𝙘𝙖𝙥𝙩𝙞𝙤𝙣 𝙩𝙤 𝙨𝙚𝙩. 
-𝙀𝙭𝙖𝙢𝙥𝙡𝙚 :- /𝙨𝙚𝙩_𝙘𝙖𝙥𝙩𝙞𝙤𝙣: {filename} 𝙎𝙞𝙯𝙚: {filesize} 𝘿𝙪𝙧𝙖𝙩𝙞𝙤𝙣: {duration}"""
+𝙀𝙭𝙖𝙢𝙥𝙡𝙚 :- /set_caption {filename} 𝙎𝙞𝙯𝙚: {filesize} 𝘿𝙪𝙧𝙖𝙩𝙞𝙤𝙣: {duration}"""
