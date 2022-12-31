@@ -8,8 +8,8 @@ class script(object):
 
 ➥ <a href='https://t.me/Owner_PM_Bot'>『𝙰𝙳𝙼𝙸𝙽࿐Tɢ』</a>
 ➥ <a href='https://t.me/Prv_35'>  ꜱᴜᴘᴘᴏʀᴛ</a>
-➥ <a href=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT>  PYRO_BOTZ</a> ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴀᴅᴅᴇᴅ
-➥ <a href=https://github.com/oVo-HxBots>  oVo-HxBots</a> ʙᴀsᴇ ʀᴇᴘᴏ</b>"""
+➥ <a href='https://t.me/kmtz_v4'>  𝙿𝚁𝚅 𝙱𝙾𝚃𝚉</a> ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴀᴅᴅᴇᴅ
+➥ <a href='https://t.me/kmtz_v4'>ʀᴇǫᴜᴇꜱᴛ ᴍᴏᴠɪᴇꜱ</a>"""
 
     ABOUT_TXT = """<b>🍃 ᴍʏ ɴᴀᴍᴇ : {}
 ✯ Dᴇᴠᴏʟᴏᴘᴇʀ : <a href='https://t.me/Owner_PM_Bot'>𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</a> 
