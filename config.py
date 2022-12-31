@@ -12,7 +12,7 @@ ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.envir
 #Your Mongo DB Database Name
 DB_NAME = os.environ.get("DB_NAME", "Prv")
 #Your Mongo DB URL Obtained From mongodb.com
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://YO:YO@cluster0.4j0kwrm.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL", "mongodb+srv://PR:PR@cluster0.4qxyrpw.mongodb.net/?retryWrites=true&w=majority")
 
 START_PIC = (os.environ.get("START_PIC", "https://telegra.ph/file/43a52a0192ec02e2fe0e1.jpg")).split()
 
