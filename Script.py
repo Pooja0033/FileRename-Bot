@@ -6,8 +6,8 @@ class script(object):
 
     DEV_TXT = """<b>☬ ᴛʜᴀɴᴋs ᴛᴏ ᴅᴇᴠᴇʟᴏᴘᴇʀs ☬
 
-➥ <a href=https://github.com/Devil-Botz>『Dᴇᴠɪʟ࿐Tɢ』</a>
-➥ <a href=https://github.com/Joelkb>  Jᴏᴇʟ ᠰ TɢX</a>
+➥ <a href='https://t.me/Owner_PM_Bot'>『𝙰𝙳𝙼𝙸𝙽࿐Tɢ』</a>
+➥ <a href='https://t.me/Prv_35'>  ꜱᴜᴘᴘᴏʀᴛ</a>
 ➥ <a href=https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT>  PYRO_BOTZ</a> ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴀᴅᴅᴇᴅ
 ➥ <a href=https://github.com/oVo-HxBots>  oVo-HxBots</a> ʙᴀsᴇ ʀᴇᴘᴏ</b>"""
 
