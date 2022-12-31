@@ -8,10 +8,10 @@ class script(object):
 
 ➥ <a href='https://t.me/Owner_PM_Bot'>『𝙰𝙳𝙼𝙸𝙽࿐Tɢ』</a>
 ➥ <a href='https://t.me/Prv_35'>  ꜱᴜᴘᴘᴏʀᴛ</a>
-➥ <a href='https://t.me/kmtz_v4'>  𝙿𝚁𝚅 𝙱𝙾𝚃𝚉</a> ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴀᴅᴅᴇᴅ
+➥ <a href='https://t.me/Prv_35Bot'>  𝙿𝚁𝚅 𝙱𝙾𝚃𝚉</a> ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs ᴀᴅᴅᴇᴅ
 ➥ <a href='https://t.me/kmtz_v4'>ʀᴇǫᴜᴇꜱᴛ ᴍᴏᴠɪᴇꜱ</a>"""
 
-    ABOUT_TXT = """<b>🍃 ᴍʏ ɴᴀᴍᴇ : {}
+    ABOUT_TXT = """<b>✯ ᴍʏ ɴᴀᴍᴇ : {}
 ✯ Dᴇᴠᴏʟᴏᴘᴇʀ : <a href='https://t.me/Owner_PM_Bot'>𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫</a> 
 ✯ ʟɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>ᴘʏʀᴏɢʀᴀᴍ</a>
 ✯ ʟᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>ᴘʏᴛʜᴏɴ 3</a>
@@ -25,20 +25,20 @@ class script(object):
 
     HELP_TXT = """<b><u><i>🎆 HOW TO SET THUMBNAIL 🎆</i></u></b>
   
-〄࿐ /start <b>a bot and send any picture to automatically set thumbnile.</b>
-〄࿐ /delthumb <b>use this command and delete your old thumbnile.</b>
-〄࿐ /viewthumb <b>use this command view your current thumbnile.</b>
+⭕️࿐ /start <b>a bot and send any picture to automatically set thumbnile.</b>
+⭕️࿐ /delthumb <b>use this command and delete your old thumbnile.</b>
+⭕️࿐ /viewthumb <b>use this command view your current thumbnile.</b>
 
  <b><u><i>📝 HOW TO RENAME A FILE 📝</i></u></b>
 
-〄࿐ <b>send any file and click rename option and type new file name and send select [ document, video, audio ]👈 choice this</b>
+⭕️࿐ <b>send any file and click rename option and type new file name and send select [ document, video, audio ]👈 choice this</b>
 
  <b><u><i>🔖 HOW TO SET CUSTOM CAPTION 🔖</i></u></b>
-〄࿐ /set_caption - set a custom caption
-〄࿐ /see_caption - see your custom caption
-〄࿐ /del_caption - delete custom caption
-Example:- /set_caption 📝 File Name: {filename}
-💾 Size: {filesize}
+⭕️࿐ /set_caption - set a custom caption
+⭕️࿐ /see_caption - see your custom caption
+⭕️࿐ /del_caption - delete custom caption
+Example:- /set_caption 📂 File Name: {filename}
+⚙️ Size: {filesize}
 ⏰ Duration: {duration}
 
 ᴛʜᴀɴᴋꜱ ᴛᴏ 𝙿𝚁𝚅 ʙᴏᴛᴢ
@@ -46,7 +46,7 @@ Example:- /set_caption 📝 File Name: {filename}
 
 
     PRGS_BAR = """\n <b>
-╭•━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━━━〄
+╭•━━❰ᴘʀᴏɢʀᴇss ʙᴀʀ❱━━━⭕️
 ┃
 ┣➣ 📚 ᴛᴏᴛᴀʟ : {1} | {2}
 ┃
@@ -56,7 +56,7 @@ Example:- /set_caption 📝 File Name: {filename}
 ┃
 ┣➣ ⏰ ᴛɪᴍᴇ : {4}
 ┃
-╰•━━━━━━━━━━━━━━━〄 </b> """
+╰•━━━━━━━━━━━━━━━⭕️ </b> """
 
 
     CUST_THUM_DEL = """𝐂𝐮𝐬𝐭𝐨𝐦 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐃𝐞𝐥𝐞𝐭𝐞𝐝 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 🗑️"""
