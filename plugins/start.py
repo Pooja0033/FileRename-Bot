@@ -15,13 +15,13 @@ async def start(client, message):
     if not await db.is_user_exist(user.id):
         await db.add_user(user.id)             
     button=InlineKeyboardMarkup( [[
-                InlineKeyboardButton("⚔ ᴅᴇᴠs ⚔", callback_data='dev')                
+                InlineKeyboardButton("👑 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 👑", callback_data='dev')                
                 ],[
-                InlineKeyboardButton('〄 sᴜᴘᴘᴏʀᴛ 〄', url='https://t.me/Elsasupportgp'),
-                InlineKeyboardButton('〄 ᴅᴏɴᴀᴛᴇ 〄', callback_data='donate')
+                InlineKeyboardButton('🥹 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🥹', url='https://t.me/Elsasupportgp'),
+                InlineKeyboardButton('🫰 ᴅᴏɴᴀᴛᴇ 🫰', callback_data='donate')
                 ],[
-                InlineKeyboardButton('〄 ᴀʙᴏᴜᴛ 〄', callback_data='about'),
-                InlineKeyboardButton('〄 ʜᴇʟᴘ 〄', callback_data='help')
+                InlineKeyboardButton('🫣 ᴀʙᴏᴜᴛ 🫣', callback_data='about'),
+                InlineKeyboardButton('🫂 ʜᴇʟᴘ 🫂', callback_data='help')
                 ]]
                 )
     if START_PIC:
@@ -46,13 +46,13 @@ async def cb_handler(client, query: CallbackQuery):
         await query.message.edit_text(
             text=(script.START_TXT.format(user.mention)),
             reply_markup=InlineKeyboardMarkup( [[
-                InlineKeyboardButton("⚔ ᴅᴇᴠs ⚔", callback_data='dev')                
+                InlineKeyboardButton("👑 𝙲𝙾𝙽𝚃𝙰𝙲𝚃 👑", callback_data='dev')                
                 ],[
-                InlineKeyboardButton('〄 sᴜᴘᴘᴏʀᴛ 〄', url='https://t.me/Elsasupportgp'),
-                InlineKeyboardButton('〄 ᴅᴏɴᴀᴛᴇ 〄', callback_data='donate')
+                InlineKeyboardButton('🥹 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 🥹', url='https://t.me/Elsasupportgp'),
+                InlineKeyboardButton('🫰 ᴅᴏɴᴀᴛᴇ 🫰', callback_data='donate')
                 ],[
-                InlineKeyboardButton('〄 ᴀʙᴏᴜᴛ 〄', callback_data='about'),
-                InlineKeyboardButton('〄 ʜᴇʟᴘ 〄', callback_data='help')
+                InlineKeyboardButton('🫰 ᴀʙᴏᴜᴛ 🫰', callback_data='about'),
+                InlineKeyboardButton('🫂 ʜᴇʟᴘ 🫂', callback_data='help')
                 ]]
                 )
             )     
@@ -61,8 +61,8 @@ async def cb_handler(client, query: CallbackQuery):
         await query.message.edit_text(
             text=script.HELP_TXT,
             reply_markup=InlineKeyboardMarkup( [[
-               InlineKeyboardButton("🗑️ᴄʟᴏsᴇ🗑️", callback_data = "close"),
-               InlineKeyboardButton("⌫ʙᴀᴄᴋ☽", callback_data = "start")
+               InlineKeyboardButton("🗑️𝙲𝙻𝙾𝚂𝙴🗑️", callback_data = "close"),
+               InlineKeyboardButton("««𝙱𝙰𝙲𝙺", callback_data = "start")
                ]]
             )
         )
@@ -70,8 +70,8 @@ async def cb_handler(client, query: CallbackQuery):
         await query.message.edit_text(
             text=script.DONATE_TXT,
             reply_markup=InlineKeyboardMarkup( [[
-               InlineKeyboardButton("🗑️ᴄʟᴏsᴇ🗑️", callback_data = "close"),
-               InlineKeyboardButton("⌫ʙᴀᴄᴋ☽", callback_data = "start")
+               InlineKeyboardButton("🗑️𝙲𝙻𝙾𝚂𝙴🗑️", callback_data = "close"),
+               InlineKeyboardButton("««𝙱𝙰𝙲𝙺", callback_data = "start")
                ]]
             )
         )
@@ -81,8 +81,8 @@ async def cb_handler(client, query: CallbackQuery):
             disable_web_page_preview = True,
             reply_markup=InlineKeyboardMarkup([[    
                InlineKeyboardButton("〄 sᴏᴜʀᴄᴇ 〄", url="https://github.com/Devil-Botz/RenameBot") ],[      
-               InlineKeyboardButton("🗑️ᴄʟᴏsᴇ🗑️", callback_data = "close"),
-               InlineKeyboardButton("⌫ʙᴀᴄᴋ☽", callback_data = "start")
+               InlineKeyboardButton("🗑️𝙲𝙻𝙾𝚂𝙴🗑️", callback_data = "close"),
+               InlineKeyboardButton("««𝙱𝙰𝙲𝙺", callback_data = "start")
                ]]
             )
         )
@@ -90,8 +90,8 @@ async def cb_handler(client, query: CallbackQuery):
         await query.message.edit_text(
             text=script.DEV_TXT,
             reply_markup=InlineKeyboardMarkup([[
-               InlineKeyboardButton("🗑️ᴄʟᴏsᴇ🗑️", callback_data = "close"),
-               InlineKeyboardButton("⌫ʙᴀᴄᴋ☽", callback_data = "start")
+               InlineKeyboardButton("🗑️𝙲𝙻𝙾𝚂𝙴🗑️", callback_data = "close"),
+               InlineKeyboardButton("««𝙱𝙰𝙲𝙺", callback_data = "start")
                ]]
             )
         )
