@@ -3,7 +3,7 @@ import re
 
 id_pattern = re.compile(r'^.\d+$')
 # get a token from @BotFather
-TOKEN = os.environ.get("TOKEN", "5747703213:AAH29TN_h_Dnt8gCAlhZSVe8lQx1QMKHfq0")
+TOKEN = os.environ.get("TOKEN", "5954355727:AAHx_hgzg3OetXN8jHhaZODSOhTVt05JOQQ")
 # The Telegram API things
 APP_ID = int(os.environ.get("APP_ID", "10303160"))
 API_HASH = os.environ.get("API_HASH", "a479b881a19ec6ddb64ed90f834488e8")
