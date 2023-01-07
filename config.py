@@ -3,10 +3,10 @@ import re
 
 id_pattern = re.compile(r'^.\d+$')
 # get a token from @BotFather
-TOKEN = os.environ.get("TOKEN", "5954355727:AAHx_hgzg3OetXN8jHhaZODSOhTVt05JOQQ")
+TOKEN = os.environ.get("TOKEN", "")
 # The Telegram API things
-APP_ID = int(os.environ.get("APP_ID", "10303160"))
-API_HASH = os.environ.get("API_HASH", "a479b881a19ec6ddb64ed90f834488e8")
+APP_ID = int(os.environ.get("APP_ID", ""))
+API_HASH = os.environ.get("API_HASH", "")
 #Array to store users who are authorized to use the bot
 ADMIN = [int(admin) if id_pattern.search(admin) else admin for admin in os.environ.get('ADMIN', '1484847208').split()]
 #Your Mongo DB Database Name
