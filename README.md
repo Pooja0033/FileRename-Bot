@@ -85,10 +85,10 @@ EXAMPLE - mongodb+srv://[UserName]:[password]@cluster0.dciqs.mongodb.net/myFirst
 
 
 <p align="left">
-<a href="https://t.me/cinemala_com1"><img src="https://img.shields.io/badge/Join%20Our%20Group-Telegram-blue?style=for-the-badge&logo=telegram"></a>
+<a href="https://t.me/Prv_35"><img src="https://img.shields.io/badge/Join%20Our%20Group-Telegram-blue?style=for-the-badge&logo=telegram"></a>
 </p>
 <p align="left">
-<a href="https://github.com/Devil-Botz/RenameBot"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Pooja0033/FileRename-Bot"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?style=for-the-badge&logo=github"></a>
 </p>
 
 
